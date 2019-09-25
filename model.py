@@ -1,6 +1,6 @@
 """Feedforward neural network.
 
-Dynamic feedforward neural network implemented with NumPy.
+Feedforward neural network implemented with NumPy.
 Used to review the mathematical background and the various steps involved
 in a neural network.
 """
